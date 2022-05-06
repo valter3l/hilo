@@ -21,7 +21,7 @@ class Director:
         """
         self.dice = []
         self.is_playing = True
-        self.score = 0
+        
         self.total_score = 0
 
         for i in range(5):
@@ -54,6 +54,7 @@ class Director:
         Args:
             self (Director): An instance of Director.
         """
+        self.score = 0
         if not self.is_playing:
             return 
 
