@@ -68,7 +68,7 @@ class Director:
         print ("Your score is {}".format(self.score))
         self.current = self.next
         if self.score <= 0:
-            self.is_playing = False
+           self.is_playing = False
         playing = input("Play again? [y/n] ")
         print()
         playing_acceptable = ["y", "Y", "n", "N"]
@@ -76,4 +76,4 @@ class Director:
             print ("You entered an invalid answer.")
             playing = input("Play again? [y/n] ")
         if playing == "n" or playing == "N":
-            self.is_playing = False
+        self.is_playing = False
