@@ -30,3 +30,5 @@ root                    (project root folder)
 ## Authors
 ---
 * Valter Pereira (per20054@byui.edu)
+* Enmanuel De los Santos Cruz (del20047@byui.edu)
+
