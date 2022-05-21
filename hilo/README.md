@@ -42,4 +42,5 @@ root                    (project root folder)
 ---
 * Valter Pereira (per20054@byui.edu)
 * Enmanuel De los Santos Cruz (del20047@byui.edu)
+* Fredy Navas (nav21002@byui.edu)
 
